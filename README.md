@@ -9,40 +9,59 @@ This project documents the essential tools, consumables, and safety equipment re
 **Objectives**
 
 •	Identify the core tools needed for printer diagnostics and repair
+
 •	Create a structured, easy to reference toolkit list
+
 •	Highlight safety and ESD protection considerations
+
 
 **Deliverables**
 
 **Core Tools**
 
 •	Phillips/flat head screwdrivers
+
 •	Precision screwdriver set
+
 •	Needle nose pliers
+
 •	Hex/Allen keys
+
 •	Anti static wrist strap
+
 
 **Cleaning & Maintenance Tools**
 
 •	Lint free wipes
+
 •	Isopropyl alcohol (90%+)
+
 •	Compressed air
+
 •	Roller rejuvenator
+
 •	Toner safe vacuum
 
 **Diagnostic Tools**
 
 •	USB drive with firmware
+
 •	Laptop with drivers
+
 •	Network cable
+
 •	Portable hotspot
+
 •	Multimeter
 
 **Safety Gear**
 
 •	Nitrile gloves
+
 •	Safety glasses
+
 •	Dust mask
+
 •	ESD mat
 
 **Outcome**
