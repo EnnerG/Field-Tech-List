@@ -1,13 +1,18 @@
 # Field-Tech-List
+
 🧰 Project 1: Field Technician Toolkit Build Out
-Overview
+
+**Overview**
+
 This project documents the essential tools, consumables, and safety equipment required for a Field Services Support Specialist working in the printer industry. It demonstrates readiness for field work, technical awareness, and the ability to standardize resources for operational efficiency.
+
 **Objectives**
 •	Identify the core tools needed for printer diagnostics and repair
 •	Create a structured, easy to reference toolkit list
 •	Highlight safety and ESD protection considerations
 
 **Deliverables**
+
 **Core Tools**
 •	Phillips/flat head screwdrivers
 •	Precision screwdriver set
@@ -36,5 +41,5 @@ This project documents the essential tools, consumables, and safety equipment re
 •	ESD mat
 
 **Outcome**
-A complete, field-ready toolkit reference thatdemonstrates technical preparedness, attento detail, and an understanding of real-world service requirements.
+A complete, field-ready toolkit reference that demonstrates technical preparedness, attention to detail, and an understanding of real-world service requirements.
 
